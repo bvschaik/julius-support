@@ -2,5 +2,6 @@
 
 This repository hosts the supporting files for [Julius](https://github.com/bvschaik/julius).
 
-Check the [releases](https://github.com/bvschaik/julius-support/releases) for the support files and how to install them.
+## Music
 
+See the [wiki](https://github.com/bvschaik/julius/wiki/MP3-Support) for installation instructions.
